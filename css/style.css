@@ -1,0 +1,63 @@
+.bgc{
+	background-color: aquamarine;
+	border: 5px solid red;
+}
+#myheader{
+	background-color: peru;
+	color: black;
+	padding: 40px;
+	text-align: center;
+}
+.ss{
+	width:600;
+	height: 450;
+	border: 0;
+}
+.yt{
+	width:200;
+	height: 100;
+	border: 10px;
+	border-color:black;
+}
+.db{
+	border-style:dotted;
+	border-left: blue;
+}
+.db2{
+	border-style: dashed;
+	border: darkred;
+}
+.sb{
+	border-style: solid;
+	border-right: tomato;
+}
+.dob{
+	border-style: double;
+	border-bottom: aqua;
+}
+.gb{
+	border-style: groove;
+	border-block: aquamarine;
+}
+.rb{
+	border-style: ridge;
+	border-collapse: revert-layer;
+}
+.ib{
+	border-style: inset;
+	border-bottom-color: red;
+}
+.ob{
+	border-style: outset;
+	border-left-color: red;
+}
+.nb{
+	border-style: none;
+}
+.hb{
+	border-style: hidden;
+}
+.mb{
+	border-style: dotted dashed solid double;
+	border-top-color: orange;
+}
